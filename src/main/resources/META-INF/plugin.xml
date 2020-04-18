@@ -1,11 +1,10 @@
 <idea-plugin>
     <id>org.caspianlabs.intellij-circleci</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>IntelliJ CircleCI</name>
+    <vendor email="team@caspianlabs.org" url="https://caspianlabs.org">Caspian Labs</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    Add CircleCI integration to IntelliJ IDEs.
     ]]></description>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
