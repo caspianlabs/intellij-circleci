@@ -1,2 +1,3 @@
 rootProject.name = 'intellij-circleci'
+include 'java'
 
